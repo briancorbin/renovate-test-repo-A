@@ -1,0 +1,7 @@
+cargo-features = ["named-profiles"]
+
+[workspace]
+members = [
+    "member-a",
+    "member-b"
+]
